@@ -1,0 +1,5 @@
+bin/
+*.nupkg
+.vs/
+obj/
+Properties/
